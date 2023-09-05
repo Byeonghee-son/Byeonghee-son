@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=byeonghee_Github!&fontSize=90" />
 
+<div align="center">
 
 # Hi there 👋
 
-<div align="center">
   
 ## ⚫Tech Stack⚫
   
