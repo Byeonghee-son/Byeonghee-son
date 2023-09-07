@@ -10,12 +10,12 @@ FRONTEND
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />
 
-BACKEND
+BACKEND  
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 
-Database
+Database  
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
 </div>
 
