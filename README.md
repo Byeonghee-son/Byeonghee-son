@@ -2,9 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=byeonghee_Github!&fontSize=90" />
 
 # Hi there 👋
-
 ## ⚫Tech Stack⚫
-  
 ### ▪Platforms & Language▪
   
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
